@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032701266526",
+    "project_id": "voicecallassignment",
+    "storage_bucket": "voicecallassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032701266526:android:d91cf3b0008fd4f05202cf",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032701266526-u5jd2gfnqce3m1s04rpnlvdhddm1ai3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7RUVe6yHQprvrqOKsXr2KFvouWfsVrJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032701266526-u5jd2gfnqce3m1s04rpnlvdhddm1ai3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
